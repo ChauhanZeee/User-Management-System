@@ -1,5 +1,5 @@
 # User management system, it is a Spring Project using java language.
-## The user will have the following attribute
+## The user will have the following attribute :--
 ##### UserId,
 ##### UserName,
 ##### DateOfBirth,
@@ -8,14 +8,14 @@
 ##### Date,
 ##### Time,
   
-# endpoint to be provided 
+# endpoint to be provided :--
 ##### addUser ,
 ##### getUser/{userid},
 ##### getAllUser,
 ##### updateUserInfo,
 ##### deleteUser.
 
-# functions used:--
+# functions used :--
 ##### model,
 ##### controller,
 ##### service,
