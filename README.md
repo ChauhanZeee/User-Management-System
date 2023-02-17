@@ -1,4 +1,4 @@
-# Spring Project that is a User management system
+# User management system, it is a Spring Project using java language.
 ## The user will have the following attribute
 ##### UserId,
 ##### UserName,
@@ -14,6 +14,12 @@
 ##### getAllUser,
 ##### updateUserInfo,
 ##### deleteUser.
+
+# functions used:--
+##### model,
+##### controller,
+##### service,
+##### repository.
 
 
 # Getting Started
